@@ -1,0 +1,42 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "sample-lobby.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1.5
+        },
+        "sample-lobby.json": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1148.4848484848487,
+                "y": 827.2727272727273
+            }
+        },
+        "sample-lobby.json#Collides": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "sample-lobby.json#sample-lobby": {
+            "scaleInDock": 0.25
+        }
+    },
+    "map.height": 51,
+    "map.lastUsedFormat": "json",
+    "map.width": 91,
+    "openFiles": [
+        "sample-lobby.json"
+    ],
+    "project": "sample-project.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "sample-lobby.json"
+    ],
+    "tileset.embedInMap": true
+}
